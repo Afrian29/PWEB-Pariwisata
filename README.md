@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Regional Tourism Information System
 
 A simple, dynamic PHP web application for managing and displaying tourism information in a region.
@@ -147,3 +148,7 @@ Potential features to add:
 - Booking system integration
 - Social media sharing
 - Email notifications
+=======
+# PWEB-Pariwisata
+Repo ini dibuat untuk memenuhi tugas akhir dari mata kuliah Pemrograman Web dengan tema Pariwisata Lokal
+>>>>>>> 3839da11786a096ac6bd08ddf1c094c1450371d8
